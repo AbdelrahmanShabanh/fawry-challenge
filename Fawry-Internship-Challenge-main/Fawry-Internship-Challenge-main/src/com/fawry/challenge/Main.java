@@ -15,7 +15,7 @@ import com.fawry.challenge.process.ShoppingCart;
 public class Main {
 
     public static ShoppingCart shoppingCart = new ShoppingCart();
-    public static Customer customer = new Customer("Haneen", "Cairo", "0777", 20000.0);
+    public static Customer customer = new Customer("abdelrahman", "portsaid", "0777", 20000.0);
 
     public static void main(String[] args) {
         createShoppingCartData();
