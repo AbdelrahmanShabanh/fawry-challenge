@@ -45,7 +45,8 @@ It includes validations for stock, expiration dates, and customer balance, along
 
 ---
 ## output
-[Fawry-Internship-Challenge-main/Fawry-Internship-Challenge-main/Screenshot 2025-07-10 003340.png]
+![Screenshot](Fawry-Internship-Challenge-main/Screenshot%202025-07-10%20003340.png)
+
 
 ##  Customer
 
