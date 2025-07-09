@@ -44,9 +44,13 @@ It includes validations for stock, expiration dates, and customer balance, along
 - iPhone 16 (8kg, expires in 1 day)
 
 ---
+## output
+[Fawry-Internship-Challenge-main/Fawry-Internship-Challenge-main/Screenshot 2025-07-10 003340.png]
 
 ##  Customer
 
 ```java
 Customer customer = new Customer("abdelrahman", "portsaid", "0888", 20000.0);
+
+
 
